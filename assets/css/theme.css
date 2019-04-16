@@ -334,7 +334,7 @@ span.post-name a,span.post-read-more a:hover {
     z-index: 1;
     position: relative;
     height:200px;
-	width:400px;
+	width:49%;
 }
 .intro .btn {
     background: #fff100;
